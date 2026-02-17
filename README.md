@@ -18,10 +18,28 @@ These are the core automation systems that power the data in this dashboard. Cli
 * **Impact:** Reduced manual data entry time by 701 minutes.
 * **Technical Repo for reference:** [🔗 View IDP Workflow & Blueprint](https://github.com/Lawrenze09/AI-Invoice-Automation-Pipeline)
 
+<details>
+<summary>📸 Click to view IDP Workflow Screenshot</summary>
+
+![IDP Workflow](Workflow%20for%20IDP.png)
+</details>
+
+---
+
 ### 2. Automated Customer Intelligence (ACI)
 * **Context:** Built a low-code system to analyze sentiment and automate customer inquiry responses with a Human-in-the-Loop audit.
 * **Impact:** Processed 43 high-complexity queries, saving 320 minutes.
 * **Technical Repo for reference:** [🔗 View ACI Workflow & Blueprint](https://github.com/Lawrenze09/Automated-Customer-Inquiry-System)
+
+<details>
+<summary>📸 Click to view ACI Workflow Screenshots (Part 1 & 2)</summary>
+
+#### Part 1:
+![ACI Workflow Part 1](Workflow%20for%20ACI.png)
+
+#### Part 2:
+![ACI Workflow Part 2](Workflow%20for%20ACI%202nd%20Part.png)
+</details>
 
 ---
 
